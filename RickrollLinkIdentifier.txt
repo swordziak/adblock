@@ -71,7 +71,7 @@
 ||r.mtdv.me^
 ||blogs.mtdv.me^
 ||social.mtdv.me^
-||creations.mtdv.me"
+||creations.mtdv.me^
 
 ! Partial support for YouTube videos that aren't covered by https://rickrolldb.com/, whose list updates and submission form are both broken
 ||youtube.com/watch?v=rW7hXs-81hM^
